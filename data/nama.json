@@ -1,0 +1,48 @@
+[
+    {
+        "nama" : "Eduardo S. Patrick",
+        "umur" : 38,
+        "email" : "EduardoSPatrick@dayrep.com",
+        "alamat" : "Oklahoma City, OK 73109",
+        "noHp" : "405-642-1746",
+        "id" : 1
+
+    },
+    {
+        "nama" : "Matthew B. Hodge",
+        "umur" : 33,
+        "email" : "MatthewBHodge@dayrep.com",
+        "alamat" : "San Jose, CA 95118",
+        "noHp" : "408-445-4747",
+        "id" : 2
+
+    },
+    {
+        "nama" : "Jennifer B. Joe",
+        "umur" : 81,
+        "email" : "JenniferBJoe@dayrep.com",
+        "alamat" : "Westminster, CO 80030",
+        "noHp" : "303-650-3966",
+        "id" : 3
+
+    },
+    {
+        "nama" : "Rebecca E. Anderson",
+        "umur" : 52,
+        "email" : "RebeccaEAnderson@jourrapide.com",
+        "alamat" : "Memphis, TN 38116",
+        "noHp" : "731-293-4361",
+        "id" : 4
+
+    },
+    {
+        "nama" : "Frederick S. Bailey",
+        "umur" : 22,
+        "email" : "FrederickSBailey@jourrapide.com",
+        "alamat" : "Calle Proc. San Sebastián",
+        "noHp" : "748 176 644",
+        "id" : 3
+
+    }
+
+]
